@@ -21,6 +21,7 @@ namespace Classes_002
         {
             MyClass my = new MyClass();
             my.CallMethod();
+            Console.WriteLine("Hello GitHub");
         }
     }
 }
